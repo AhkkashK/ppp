@@ -1,2 +1,3 @@
 rootProject.name = 'ppp'
+include 'proj2'
 
